@@ -29,7 +29,7 @@ print("d:", d)
 ```
 
 ## Output
-![alt text](../output2.png)
+![alt text](output2.png)
 
 
 ## Result

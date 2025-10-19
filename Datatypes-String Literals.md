@@ -18,6 +18,6 @@ print(men_stepped_on_the_moon)
 
 ## Output
 
-![alt text](../output5.png)
+![alt text](output5.png)
 ## Result
 A Python program to read a string from the user and then print was completed successfully and output was generated.
