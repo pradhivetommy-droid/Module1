@@ -23,7 +23,7 @@ print("Imaginary part:", x.imag)
 ```
 
 ## Output
-![alt text](output4.png)
+![alt text](../output4.png)
 
 ## Result
 A Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts was completed successfully and output was generated.

@@ -24,8 +24,7 @@ else:
 ```
 
 ## Output
-
-![alt text](output1.png)
+![alt text](../output1.png)
 
 ## Result
 A Python program to check whether the given number is **even** or **odd** using `if...else` statements was completed successfully and output was generated.
