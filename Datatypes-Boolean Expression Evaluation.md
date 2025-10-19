@@ -29,4 +29,7 @@ print("d:", d)
 ```
 
 ## Output
+![alt text](image.png)
+
+
 ## Result
