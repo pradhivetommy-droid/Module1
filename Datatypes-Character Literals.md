@@ -15,5 +15,7 @@ print('a')
 ```
 
 ## Output
+![alt text](output3.png)
 
 ## Result
+a Python program that prints the characters `'T'` and `'a'` using character literals was completed successfully and output was generated.
